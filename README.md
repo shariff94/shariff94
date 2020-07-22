@@ -20,5 +20,5 @@
 - 🌱 I’m currently learning Computer Vision from Udacity
 - 👯 I’m looking to collaborate on Anything... Almost
 - 😎 I’m looking for Interesting new problems, and provide an elegant solution
-- 💬 Ask me about Statistics,Python, Data Engineering, Machine Learning, Deep Learning and Computer Vision
+- 💬 Ask me about Statistics, Python, Data Engineering, Machine Learning, Deep Learning and Computer Vision
 - 📫 How to reach me: simplyshariff@gmail.com
