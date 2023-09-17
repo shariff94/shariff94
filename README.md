@@ -16,8 +16,9 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on Image Captioning using CNN and RNN
-- 🌱 I’m currently learning Computer Vision from Udacity
+- 👨‍💻 I am currently working on a Data Engineering Project using Snowflake and DBT.
+- 🎓 I recently finished my Masters in MSc in Data and Business Analytics from Rennes School of Business.
+- 🌏 Currently working with Cognizant in Sydney.
 - 👯 I’m looking to collaborate on Anything... Almost
 - 😎 I’m looking for Interesting new problems, and provide an elegant solution
 - 💬 Ask me about Statistics, Python, Data Engineering, Machine Learning, Deep Learning and Computer Vision
