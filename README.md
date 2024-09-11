@@ -17,7 +17,7 @@
 <br />
 
 - 👨‍💻 I am currently working on a Data Engineering Project using Snowflake and DBT.
-- 🎓 I recently finished my Masters in MSc in Data and Business Analytics from Rennes School of Business.
+- 🎓 I possess a Masters degree in MSc in Data and Business Analytics from Rennes School of Business and a Bachelors degree in Electronics Engineering.
 - 🌏 Currently working with Cognizant in Sydney.
 - 👯 I’m looking to collaborate on Anything... Almost
 - 😎 I’m looking for Interesting new problems, and provide an elegant solution
